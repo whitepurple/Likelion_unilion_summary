@@ -29,6 +29,7 @@ git add .
 ```
 git commit -m "(원하는 내용)"
 ```
+원격 저장소의 master 브랜치에 프로젝트 저장
 ```
 git push origin master
 ```
