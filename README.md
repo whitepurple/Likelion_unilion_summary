@@ -28,3 +28,14 @@
 6. Django는 중복을 싫어해 **[[summary](https://github.com/whitepurple/Likelion_unilion_summary/blob/master/Summary/%EB%93%9C%EB%A6%AC%EB%A8%B8%EB%A6%AC.md#django%EB%8A%94-%EC%A4%91%EB%B3%B5%EC%9D%84-%EC%8B%AB%EC%96%B4%ED%95%B4)]**
 7. CRUD #1 **[[summary](https://github.com/whitepurple/Likelion_unilion_summary/blob/master/Summary/%EB%93%9C%EB%A6%AC%EB%A8%B8%EB%A6%AC.md#crud-1)]**
 8. CRUD #2 **[[summary](https://github.com/whitepurple/Likelion_unilion_summary/blob/master/Summary/%EB%93%9C%EB%A6%AC%EB%A8%B8%EB%A6%AC.md#crud-2)]**
+
+### 자소설 닷컴
+1. 자소설 닷컴 만들기 **[[summary](https://github.com/whitepurple/Likelion_unilion_summary/blob/master/Summary/%EC%9E%90%EC%86%8C%EC%84%A4%EB%8B%B7%EC%BB%B4.md#%EC%9E%90%EC%86%8C%EC%84%A4-%EB%8B%B7%EC%BB%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0)]**
+2. Model & Database **[[summary](https://github.com/whitepurple/Likelion_unilion_summary/blob/master/Summary/%EC%9E%90%EC%86%8C%EC%84%A4%EB%8B%B7%EC%BB%B4.md#model--database)]**
+3. ModelForm **[[summary](https://github.com/whitepurple/Likelion_unilion_summary/blob/master/Summary/%EC%9E%90%EC%86%8C%EC%84%A4%EB%8B%B7%EC%BB%B4.md#modelform)]**
+4. Primary Key **[[summary](https://github.com/whitepurple/Likelion_unilion_summary/blob/master/Summary/%EC%9E%90%EC%86%8C%EC%84%A4%EB%8B%B7%EC%BB%B4.md#primary-key)]**
+5. User **[[summary](https://github.com/whitepurple/Likelion_unilion_summary/blob/master/Summary/%EC%9E%90%EC%86%8C%EC%84%A4%EB%8B%B7%EC%BB%B4.md#user)]**
+6. Foreign Key **[[summary](https://github.com/whitepurple/Likelion_unilion_summary/blob/master/Summary/%EC%9E%90%EC%86%8C%EC%84%A4%EB%8B%B7%EC%BB%B4.md#foreign-key)]**
+7. 댓글 만들기 **[[summary](https://github.com/whitepurple/Likelion_unilion_summary/blob/master/Summary/%EC%9E%90%EC%86%8C%EC%84%A4%EB%8B%B7%EC%BB%B4.md#%EB%8C%93%EA%B8%80-%EB%A7%8C%EB%93%A4%EA%B8%B0)]**
+8. 글자수 세기 **[[summary](https://github.com/whitepurple/Likelion_unilion_summary/blob/master/Summary/%EC%9E%90%EC%86%8C%EC%84%A4%EB%8B%B7%EC%BB%B4.md#%EA%B8%80%EC%9E%90%EC%88%98-%EC%84%B8%EA%B8%B0)]**
+
